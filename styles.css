@@ -9,6 +9,11 @@
 #board {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
+    border: 2px solid #ddd;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+	margin: 20px auto;
+
 }
 
 #start, .boardInfo {
@@ -17,18 +22,26 @@
 
 #gameOver {
     display: none;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
 }
 
 .boardInfo {
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
+    margin: auto;
 }
 
 #start {
     background-color: #f35a69;
     border: none;
     color: white;
+    border: 2px solid #ddd;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+	margin: 20px auto;
 }
 
 #scoreBoard {

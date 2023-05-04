@@ -20,3 +20,16 @@ Este juego se construyó utilizando JavaScript para la lógica del juego y HTML 
 
 ## Créditos
 Este juego se creó siguiendo un tutorial de [CodeExplained.](https://www.youtube.com/watch?v=QTcIXok9wNY)
+
+El código para este juego de Snake se puede obtener a través de un repositorio en GitHub. Sigue los siguientes pasos para descargar o clonar el repositorio en tu máquina:
+
+1. Ve al repositorio de GitHub del juego de Snake haciendo clic en este enlace: https://github.com/nombre-de-usuario/snake-game
+2. Haz clic en el botón verde "Code" en la parte superior derecha de la página.
+Selecciona la opción "Download ZIP" para descargar un archivo ZIP del repositorio a tu máquina.
+3. Descomprime el archivo ZIP en una carpeta en tu máquina.
+4. Abre el archivo index.html en tu navegador para jugar al juego de Snake.
+5. Alternativamente, si tienes Git instalado en tu máquina, puedes clonar el repositorio usando la siguiente línea de comando en tu terminal:
+
+```git clone https://github.com/nombre-de-usuario/snake-game.git```
+
+Esto descargará el repositorio completo en una carpeta llamada snake-game en tu máquina. Luego, puedes abrir el archivo index.html en tu navegador para jugar al juego de Snake.
